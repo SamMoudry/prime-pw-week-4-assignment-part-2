@@ -1,7 +1,11 @@
 .heading {
   background-color: orange;
 }/*added a background color to know if I linked it correctly*/
-.info {
-  background-color: black;
-  color: white;
+h2 {
+    background-color: black;
+    color: white;
+}
+h3 {
+    background-color: lightblue;
+    color: yellow;
 }
